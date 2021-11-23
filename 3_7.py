@@ -7,4 +7,4 @@ def area(a,b,c):
 a = int ( input ( "Введите a:" ))
 b = int ( input ( "Введите b:" ))
 c = int ( input ( "Введите c:" ))
-print("Площадь треугольника "area(a,b,c))
+print("Площадь треугольника ",area(a,b,c))
