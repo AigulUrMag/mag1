@@ -1,4 +1,4 @@
-lass StringVar:
+Class StringVar:
 	def __init__(self,str1) :
 		self.str1=str1
 	def set(self,str1) :
